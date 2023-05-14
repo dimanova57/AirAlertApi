@@ -1,0 +1,11 @@
+#Vinn_1_,
+#Zapor_1_,
+#Dnepr_1_,
+#Herson_1_,
+#Lviv_1_,
+#Kiiv_1_ {
+  display: none;  
+}
+.city {
+  cursor:pointer;
+}
